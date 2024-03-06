@@ -1,0 +1,15 @@
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.AssemblyInfoInputs.cache
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.AssemblyInfo.cs
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.sourcelink.json
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\bin\Debug\net8.0\Number_count.exe
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\bin\Debug\net8.0\Number_count.deps.json
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\bin\Debug\net8.0\Number_count.runtimeconfig.json
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\bin\Debug\net8.0\Number_count.dll
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\bin\Debug\net8.0\Number_count.pdb
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.dll
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\refint\Number_count.dll
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.pdb
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\Number_count.genruntimeconfig.cache
+D:\GeekBrain\Языки програмирования c#\Arrays\Number_count\obj\Debug\net8.0\ref\Number_count.dll
